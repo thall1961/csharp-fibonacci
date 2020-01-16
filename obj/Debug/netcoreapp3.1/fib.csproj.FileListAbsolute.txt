@@ -1,0 +1,11 @@
+C:\projects\csharp\fib\bin\Debug\netcoreapp3.1\fib.exe
+C:\projects\csharp\fib\bin\Debug\netcoreapp3.1\fib.deps.json
+C:\projects\csharp\fib\bin\Debug\netcoreapp3.1\fib.runtimeconfig.json
+C:\projects\csharp\fib\bin\Debug\netcoreapp3.1\fib.runtimeconfig.dev.json
+C:\projects\csharp\fib\bin\Debug\netcoreapp3.1\fib.dll
+C:\projects\csharp\fib\bin\Debug\netcoreapp3.1\fib.pdb
+C:\projects\csharp\fib\obj\Debug\netcoreapp3.1\fib.csprojAssemblyReference.cache
+C:\projects\csharp\fib\obj\Debug\netcoreapp3.1\fib.AssemblyInfoInputs.cache
+C:\projects\csharp\fib\obj\Debug\netcoreapp3.1\fib.AssemblyInfo.cs
+C:\projects\csharp\fib\obj\Debug\netcoreapp3.1\fib.dll
+C:\projects\csharp\fib\obj\Debug\netcoreapp3.1\fib.pdb
