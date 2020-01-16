@@ -8,7 +8,7 @@ namespace fib
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Welcome! Enter a number or 'x' to quit.\n\n");
+      Console.WriteLine("\n********************************************\nWelcome! Enter a number or 'x' to quit.\n********************************************");
       do
       {
         var nums = new List<int> { 0, 1 };
@@ -33,13 +33,13 @@ namespace fib
       else if (!isInt && response != "x")
       {
         // response is not a number and not the escape character
-        Console.WriteLine("Please enter a digit.");
+        Console.WriteLine("********************************************\nPlease enter a digit.\n********************************************");
         return true;
       }
       else
       {
         // response is the escape character, exit program
-        Console.WriteLine("Goodbye!");
+        Console.WriteLine("********************************************\nGoodbye!\n********************************************");
         return false;
       }
     }
